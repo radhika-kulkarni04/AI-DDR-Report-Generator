@@ -1,0 +1,74 @@
+================ DDR REPORT ================
+
+1. Property Issue Summary:
+Multiple instances of dampness, leakage, and structural concerns were observed across the flat, including hall, bedrooms, kitchen, bathrooms, and parking area. Thermal data indicates temperature variation supporting moisture-related issues.
+
+--------------------------------------------
+
+2. Area-wise Observations:
+
+- Hall: Dampness observed at skirting level  
+  Image: Refer to Photo 1–7  
+
+- Bedroom: Dampness at skirting level  
+  Image: Refer to Photo 15–19  
+
+- Master Bedroom: Dampness and wall moisture observed  
+  Image: Refer to Photo 20–25  
+
+- Kitchen: Dampness at skirting level  
+  Image: Refer to Photo 31–32  
+
+- Bathrooms (Common & Master): Tile joint gaps, hollowness, and plumbing-related issues  
+  Image: Refer to Photo 8–11, 26–30, 53–57  
+
+- External Wall: Cracks observed near master bedroom area  
+  Image: Refer to Photo 42–48  
+
+- Parking Area: Seepage observed at ceiling  
+  Image: Refer to Photo 49–52  
+
+- Common Bathroom Ceiling: Mild dampness and outlet leakage  
+  Image: Refer to Photo 58–64  
+
+- Thermal Findings:  
+  Hotspot: 28.8°C, Coldspot: 23.4°C indicating uneven heat distribution and possible moisture intrusion  
+  Image: RB02380X.JPG  
+
+--------------------------------------------
+
+3. Probable Root Cause:
+- Leakage due to concealed plumbing issues  
+- Gaps in tile joints allowing water seepage  
+- Poor waterproofing in wet areas  
+- External wall cracks contributing to moisture ingress  
+- Inadequate insulation as indicated by thermal variation  
+
+--------------------------------------------
+
+4. Severity Assessment:
+Moderate to High – Issues are widespread across multiple areas and include both moisture intrusion and structural concerns. If not addressed, they may lead to further deterioration of walls, ceilings, and structural components.
+
+--------------------------------------------
+
+5. Recommended Actions:
+- Repair and seal leakage points in kitchen, bathrooms, and parking ceiling  
+- Fix and regrout tile joints in all affected bathroom areas  
+- Address concealed plumbing issues and inspect pipelines  
+- Repair cracks in external walls using appropriate sealing techniques  
+- Apply waterproofing treatment in wet areas and external surfaces  
+- Improve insulation in roof and affected areas  
+
+--------------------------------------------
+
+6. Additional Notes:
+This report is generated using a prototype AI-based workflow that processes inspection and thermal data. The system ensures structured output, logical merging of data, and identification of key issues.
+
+--------------------------------------------
+
+7. Missing Information:
+- Exact material specifications (Not Available)  
+- Detailed structural measurements (Not Available)  
+- Complete thermal image mapping for all affected areas (Not Available)  
+
+============================================
